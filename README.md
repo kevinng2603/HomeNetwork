@@ -10,7 +10,7 @@ In this project, I will set up a home network for Natsumi, connecting her device
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Cisco Packet Tracer</b> 
+- <b>Cisco Packet Tracer - [Download the version of Packet Tracer you require](https://skillsforall.com/resources/lab-downloads?courseLang=en-US)</b> 
 
 
 <h2>Environments Used </h2>
