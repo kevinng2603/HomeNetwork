@@ -15,7 +15,11 @@ This lab involves configuring a home network for a friend, Natsumi, using Packet
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Cisco Packet Tracer - [Download the version of Packet Tracer you require](https://skillsforall.com/resources/lab-downloads?courseLang=en-US)</b> 
+#### Download and Install these 2 files:
+
+- <b>Cisco Packet Tracer - [[Download the version of Cisco Packet Tracer you require]](https://skillsforall.com/resources/lab-downloads?courseLang=en-US)</b> 
+- <b>Configure Wireless and Router Package - [[Download Packet Tracer Project]](4.4.4-packet-tracer-configure-a-wireless-router-and-clients.pka)
+
 
 
 <h2>Environments Used </h2>
