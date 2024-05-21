@@ -70,7 +70,7 @@ This lab involves configuring a home network for a friend, Natsumi, using Packet
   ![TV Connection On](https://i.imgur.com/eUbxtvb.png)
 ## Conclusion
 All devices are connected to the home network and have internet access. The home network is fully operational, and Natsumi is ready to enjoy her new setup.
-![Activity Result]([https://i.imgur.com/eUbxtvb.png](https://i.imgur.com/6ZWNaQ0.png))
+![Activity Result](https://i.imgur.com/6ZWNaQ0.png)
 
 <!--
  ```diff
