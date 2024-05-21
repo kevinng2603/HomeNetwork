@@ -15,7 +15,7 @@ This lab involves configuring a home network for a friend, Natsumi, using Packet
 
 <h2>Step by Step Instruction</h2>
 
-- <b>[PT Activity](HomeNetwork/Configure.md) </b>
+- <b>[PT Activity](Configure.md) </b>
 
 <h2>Languages and Utilities Used</h2>
 
